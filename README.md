@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi! I'm Ayelén 👋
 
-<!--
-**ayelencura1/ayelencura1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computational linguist and English teacher transitioning into AI and NLP.
 
-Here are some ideas to get you started:
+🔹 MSc in Computational Linguistics and Large Language Models  
+🔹 Experience in language, annotation, and AI-related projects  
+🔹 Interested in LLM evaluation, prompt design, and language data  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tech skills:
+- Python
+- NLP (spaCy, NLTK, Transformers)
+- Data annotation & evaluation
+- Prompt engineering
+
+Currently looking for opportunities in AI / NLP.
